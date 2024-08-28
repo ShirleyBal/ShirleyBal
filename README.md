@@ -21,7 +21,9 @@ Soy Shirley Balbuena, una programadora full stack apasionada por el desarrollo d
 Herramientas:
 
 Git
+
 GitHub
+
 VSCode
 
 🚀 Proyectos Destacados:
