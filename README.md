@@ -17,3 +17,5 @@ Soy Shirley Balbuena, una programadora full stack apasionada por el desarrollo d
 - Express
 - Sequelize
 - PostgreSQL
+
+Cualquier contacto al correo shirleybalbuena58@gmail.com
