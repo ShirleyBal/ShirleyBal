@@ -27,6 +27,7 @@ GitHub
 VSCode
 
 🚀 Proyectos Destacados:
+
 Proyecto Individual de Henry: Pokemon donde implemente todo lo aprendido. En él, encontrarán información detallada sobre diferentes Pokémon, incluyendo sus características y habilidades. ¡Lo mejor de todo es que también podrán crear su propio Pokémon!
 En este proyecto, mi función fue crear un backend sólido que se conectaba a una API para solicitar la información de los Pokémon, la cual luego se guardaba en una base de datos. Utilicé JavaScript, Node.js, Express, Sequelize y PostgreSQL para desarrollar esta parte. Y la libreria jest para realizar los test!
 
